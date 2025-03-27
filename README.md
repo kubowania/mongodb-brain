@@ -2,22 +2,22 @@
 A demo of using Atlas Vector Search
 
 
-## Step 1: Sign up to MongoDB
+### Step 1: Sign up to MongoDB
 You can sign up to MongoDB here: https://www.mongodb.com/
 
 
 
-## Step 2: Create a database and collection
+### Step 2: Create a database and collection
 Create a database called "brain" with a collection called "memories".
 
 
 
-## Step 3: Clone this project
-Clone this proejct onto your local machine.
+### Step 3: Clone this project
+Clone this project onto your local machine.
 
 
 
-## Step 4: Install packages
+### Step 4: Install packages
 install the following packages in your terminal:
 
 ```
@@ -26,7 +26,7 @@ npm install mongodb @xenova/transformers
 
 
 
-## Step 5: Create a `.env` file
+### Step 5: Create a `.env` file
 Create a `.env` file based on the `.sample.env` file with your MongoDB URI.
 
 ```
