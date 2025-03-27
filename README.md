@@ -18,7 +18,7 @@ Clone this project onto your local machine.
 
 
 ### Step 4: Install packages
-install the following packages in your terminal:
+Install the following packages in your terminal:
 
 ```
 npm install mongodb @xenova/transformers 
@@ -35,5 +35,5 @@ ATLAS_CONNECTION_STRING={YOUR_URI}
 
 
 
-## Step 6: Watch the tutorial
+### Step 6: Watch the tutorial
 Watch the full tutorial on how to run this project here: COMING SOON
